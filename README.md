@@ -1,4 +1,5 @@
 # Hi there, I'm Shoaib Mohammed! 👋
+assets/Xmas-2024-rs.jpg
 
 ## 🚀 About Me
 I'm a passionate Full-Stack Java Developer with extensive experience in building scalable and efficient applications. With a strong background in **React, Angular, Java Spring Boot, and cloud technologies**, I enjoy creating robust backend systems and responsive user interfaces. I have worked across various industries, including **insurance, cloud optimization, and logistics**, delivering high-quality solutions.
