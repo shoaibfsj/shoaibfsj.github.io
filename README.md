@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Java Developer with extensive experience in building
 - **Full-Stack Java Developer (Texas Mutual Insurance) July 2023 - Present:** CoreSure - Optimized insurance operations by building scalable microservices and frontend components.
 - **Full-Stack Java Developer(Flexera) April 2021 - June 2023:** CloudIQ - Developed cloud optimization solutions enhancing resource utilization and cost management.
 - **Full-Stack Java Developer (CarMax) January 2020 - March 2021:** AutoOptimize - Streamlined automotive operations with robust policy management and inventory tracking.
-- **Java Web-Developer (Gen Central) June 2018 - November 2019:** PayStream - Automated financial processes ensuring smooth transaction processing and reporting.
+- **Java Web-Developer (Avalon Health Care Group) June 2018 - November 2019:** AvalonPayOps - Automated financial processes ensuring smooth transaction processing and reporting.
 - **Java Developer Intern (AllcargoGATI) March 2016 - May 2018:** LogiFlow - Enhanced logistics operations with real-time tracking and process automation.
 
 ## 🔗 Let's Connect!
